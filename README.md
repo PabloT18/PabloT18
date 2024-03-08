@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## Some stuff I've used
+## Some tools I prefer to use
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
